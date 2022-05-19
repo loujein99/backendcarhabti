@@ -43,6 +43,6 @@ arrete le projet avec la commande : docker-compose down IdContainer
 MIT License
 
 ## Author Info
-Bouazizi Loujein</br>
+Bouzazi Loujein</br>
 Gharbi Mohamed
 
